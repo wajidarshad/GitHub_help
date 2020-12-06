@@ -1,0 +1,20 @@
+Help Uploading large files on GitHub
+
+1- Download and install desktop github for windows from https://desktop.github.com/
+
+2- Download and install git for windows from https://git-scm.com/download/win
+
+3- Download and install lfs for windows from https://git-lfs.github.com/
+
+4- open desktop github and clone the required repositroy
+
+5- open git bash and cd to the clone directory
+
+6- Then follow the instructions given in https://git-lfs.github.com/
+
+7- copy files into the clone directory and push by following the instructions given in https://www.datacamp.com/community/tutorials/git-push-pull
+
+
+Compiled by Dr. Wajid Arshad Abbasi (wajidarshad@gmail.com)
+
+
